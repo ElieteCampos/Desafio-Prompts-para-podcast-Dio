@@ -54,7 +54,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 📚 Meu Template Notion
 
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
+- [Notion Template](https://iris-tricorne-327.notion.site/Podcast-Level-Up-Front-Do-solo-Leveling-ao-poder-dos-Prompts-27fe791ee54b812fa444ec6f1258baf6?source=copy_link)
 
 
 
